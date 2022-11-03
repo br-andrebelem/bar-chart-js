@@ -5,12 +5,12 @@
  *
  * bar.js
  * simple, elegant bar chart library
- * {date} - version 1.0
- * {url}
+ * 03.11.22 - version 1.0
+ * https://github.com/br-andrebelem/bar-chart-js
  *
- * Copyright 2017 {your name}
+ * Copyright 2017 Andre Belem br.andrebelem@icloud.com
  * Relased under the MIT License
- * {license url}
+ * https://github.com/br-andrebelem/bar-chart-js/blob/main/LICENCE.md
  *
  */
 
